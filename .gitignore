@@ -1,1 +1,11 @@
+*.iml
+*.iws
+*.eml
+*.map
+out/
 .DS_Store
+log/*.log
+tmp/**
+node_modules/
+bower_components/
+.sass-cache
